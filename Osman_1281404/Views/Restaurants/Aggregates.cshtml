@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Food>
+@{
+    ViewData["Title"] = "Aggregates";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3>Aggreages</h3>
+        <table class="table table-bordered">
+            <thead class="table-light">
+                <tr>
+                    <th>Aggregate Function</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Count</td>
+                    <td>@Model.Count()</td>
+                </tr>
+                <tr>
+                    <td>Max (Price)</td>
+                    <td>@Model.Max(d => d.Price)</td>
+                </tr>
+                <tr>
+                    <td>Min (Price)</td>
+                    <td>@Model.Min(d => d.Price)</td>
+                </tr>
+                <tr>
+                    <td>Average (Price)</td>
+                    <td>@Model.Average(d => d.Price)</td>
+                </tr>
+                <tr>
+                    <td>Sum (Price)</td>
+                    <td>@Model.Sum(d => d.Price)</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+

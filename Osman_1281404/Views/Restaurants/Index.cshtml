@@ -1,0 +1,134 @@
+﻿@model IEnumerable<Osman_1281404.Models.Restaurant>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3 class="display-1" style="font-size: 2.50rem">Restaurant</h3>
+        <div class="d-flex justify-content-end mb-1">
+            <a class="btn btn-primary btn-sm" asp-action="Create" asp-controller="Restaurants"><i class="fa fa-plus"></i> Create</a>
+        </div>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Restaurant Name</th>
+                    <th>Type</th>
+                    <th>Opening Date</th>
+                  
+
+                    <th>In Stock</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var r in Model)
+                {
+                    <tr>
+                        <td>
+                            <img src="~/Pictures/@r.Picture" class="rounded-circle" style="width:50px" />
+                        </td>
+                        <td>@r.RestaurantName</td>
+                        <td>@r.RestaurantType</td>
+
+
+                        <td>@(r.OpeningDate?.ToString("yyyy-MM-dd"))</td>
+                        
+                        <td>@(r.IsAvailable ? "Yes" : "No")</td>
+                        <td>
+                            <a title="Edit this item" class="btn btn-primary btn-sm" asp-action="Edit" asp-controller="Devices" asp-route-id="@r.RestaurantId"><i class="fa fa-pencil"></i></a>
+                            <button title="Delete this item" type="button" class="btn btn-danger btn-sm del" data-pk="@r.RestaurantId"><i class="fa fa-trash"></i></button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td colspan="7">
+                            <h4>Foods</h4>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>Spec</th>
+                                        <th>Value</th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var f in r.Foods)
+                                    {
+                                        <tr>
+                                            <td>@f.FoodName</td>
+                                            <td>@f.Price?.ToString("0.00")</td>
+
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="d-flex justify-content-end">
+            <ul class="pagination pagination-sm">
+                @if (ViewBag.CurrentPage > 1)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-action="Index" asp-controller="Workers" asp-route-pg="@(ViewBag.CurrentPage - 1)"><i class="fa fa-angle-left"></i></a>
+                    </li>
+                }
+                @for (var i = 1; i <= ViewBag.TotalPages; i++)
+                {
+                    if (ViewBag.CurrentPage == i)
+                    {
+                        <li class="page-item active">
+                            <a class="page-link" asp-action="Index" asp-controller="Workers" asp-route-pg="@i">@i</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item">
+                            <a class="page-link" asp-action="Index" asp-controller="Workers" asp-route-pg="@i">@i</a>
+                        </li>
+                    }
+                }
+                @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-action="Index" asp-controller="Workers" asp-route-pg="@(ViewBag.CurrentPage + 1)"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>
+@section styles {
+    <link href="~/libs/font/css/font-awesome.min.css" rel="stylesheet" />
+}
+@section scripts {
+    <script src="~/libs/jquery/jquery.min.js"></script>
+    <script>
+        $(() => {
+            $('.del').click(function () {
+                let did = $(this).data('pk');
+                let trD = $(this).closest('tr');
+                let trS = trD.next();
+                if(confirm("Are you sure to delete?")){
+                    $.ajax({
+                        type:'post',
+                        url: '/Restaurants/Delete/' + did,
+                        dataType: 'json',
+                        success: r => {
+                            if (r.success && r.success == true) {
+                                trD.remove();
+                                trS.remove();
+                            }
+                        }
+                    })
+                }
+            });
+        });
+    </script>
+}
+
+

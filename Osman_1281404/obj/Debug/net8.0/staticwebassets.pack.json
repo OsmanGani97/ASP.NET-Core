@@ -1,0 +1,1209 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1.jpg"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\11nuopt2.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\11nuopt2.jpg"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\bjurr0sp.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\bjurr0sp.jpg"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\fxrx4br3.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\fxrx4br3.jpg"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\lb0hvrk4.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\lb0hvrk4.jpg"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\lynfc3t1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\lynfc3t1.jpg"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\rf2dwg13.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\rf2dwg13.jpg"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\w353pvcp.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\w353pvcp.jpg"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\xtlj11ur.jfif",
+      "PackagePath": "staticwebassets\\Pictures\\xtlj11ur.jfif"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\yw5jbjzy.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\yw5jbjzy.jpg"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\Pictures\\zvwlvyzu.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\zvwlvyzu.jpg"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\ajax\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\libs\\ajax\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\ajax\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\libs\\ajax\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\libs\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\font\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\libs\\font\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\font\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\libs\\font\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\font\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\libs\\font\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\font\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\libs\\font\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\font\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\libs\\font\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\font\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\libs\\font\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\font\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\libs\\font\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\font\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\libs\\font\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\font\\fonts\\fontawesome.otf",
+      "PackagePath": "staticwebassets\\libs\\font\\fonts\\fontawesome.otf"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\additional-methods.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\jquery-validation-sri.json",
+      "PackagePath": "staticwebassets\\libs\\validate\\jquery-validation-sri.json"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_az.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_bn_bd.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_bn_bd.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_bn_bd.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_bn_bd.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_da.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_de.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_el.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_es.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_es.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_es.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_es_ar.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_es_ar.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_es_ar.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_es_ar.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_es_pe.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_es_pe.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_es_pe.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_es_pe.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_et.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_et.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_et.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_eu.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_eu.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_fa.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_fa.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_fi.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_fi.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_fr.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_fr.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ge.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ge.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_gl.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_gl.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_he.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_he.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_he.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_hi.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_hi.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_hi.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_hi.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_hr.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_hr.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_hu.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_hu.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_hy_am.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_hy_am.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_hy_am.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_hy_am.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_id.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_id.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_id.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_is.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_is.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_is.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_it.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_it.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_it.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ja.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ja.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ka.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ka.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_kk.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_kk.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ko.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ko.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_lt.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_lt.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_lv.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_lv.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_mk.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_mk.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_my.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_my.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_my.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_nl.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_nl.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_no.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_no.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_no.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_pl.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_pl.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_pt_br.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_pt_br.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_pt_br.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_pt_br.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_pt_pt.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_pt_pt.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_pt_pt.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_pt_pt.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ro.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ro.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ru.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ru.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_sd.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_sd.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_si.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_si.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_si.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_sk.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_sk.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_sl.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_sl.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_sr.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_sr.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_sr_lat.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_sv.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_sv.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_th.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_th.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_th.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_tj.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_tj.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_tr.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_tr.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_uk.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_uk.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_ur.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_ur.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_vi.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_vi.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_zh.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_zh.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_zh_tw.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_zh_tw.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\messages_zh_tw.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\messages_zh_tw.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\methods_de.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\methods_de.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\methods_de.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\methods_es_cl.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\methods_es_cl.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\methods_es_cl.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\methods_es_cl.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\methods_fi.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\methods_fi.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\methods_it.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\methods_it.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\methods_it.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\methods_it.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\methods_nl.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\methods_nl.min.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "E:\\M10\\Osman_1281404\\Osman_1281404\\Osman_1281404\\wwwroot\\libs\\validate\\localization\\methods_pt.min.js",
+      "PackagePath": "staticwebassets\\libs\\validate\\localization\\methods_pt.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Osman_1281404.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Osman_1281404.props",
+      "PackagePath": "build\\Osman_1281404.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Osman_1281404.props",
+      "PackagePath": "buildMultiTargeting\\Osman_1281404.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Osman_1281404.props",
+      "PackagePath": "buildTransitive\\Osman_1281404.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<GroupedData<Restaurant>>
+@{
+    ViewData["Title"] = "GroupingResult";
+}
+<div class="row">
+    <div class="col-12">
+        @foreach (var g in Model)
+        {
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Group by</th>
+                        <th>Result</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@g.Key</td>
+                        <td>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>Restaurant</th>
+                                        <th>Type</th>
+                                          <th>Opening Date</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                @foreach (var d in g.Items)
+                                {
+                                        <tr>
+                                            <td>@d.RestaurantName</td>
+                                            <td>@d.RestaurantType</td>
+                                            <td>@d.OpeningDate?.ToString("yyyy-MM-dd")</td>
+                                        </tr>
+                                }
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+

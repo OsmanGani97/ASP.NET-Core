@@ -1,0 +1,110 @@
+﻿@model RestaurantInputModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="row">
+    <div class="col-12">
+        <form asp-action="Create" asp-controller="Restaurants" method="post" enctype="multipart/form-data">
+            <h3>Create new Food</h3>
+
+            <div class="form-group row mb-1">
+                <label asp-for="RestaurantName" class="col-form-label col-form-label-sm col-2"></label>
+                <div class="col-4">
+                    <input type="text" asp-for="RestaurantName" class="form-control form-control-sm" />
+                    <span asp-validation-for="RestaurantName" class="text-danger small"></span>
+                </div>
+            </div>
+            
+            <div class="form-group row mb-1">
+                <label asp-for="RestaurantType" class="col-form-label col-form-label-sm col-2"></label>
+                <div class="col-4">
+                    <select type="text" asp-for="RestaurantType" class="form-select form-select-sm" asp-items="@Html.GetEnumSelectList<RestaurantType>()">
+                        <option value="">Select one</option>
+                    </select>
+                    <span asp-validation-for="RestaurantType" class="text-danger small"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mb-1">
+                <label asp-for="OpeningDate" class="col-form-label col-form-label-sm col-2"></label>
+                <div class="col-4">
+                    <input type="date" asp-for="OpeningDate" class="form-control form-control-sm" />
+                    <span asp-validation-for="OpeningDate" class="text-danger small"></span>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label asp-for="Picture" class="col-form-label col-form-label-sm col-2"></label>
+                <div class="col-4">
+                    <input type="file" asp-for="Picture" class="form-control form-control-sm" />
+                    <span asp-validation-for="Picture" class="text-danger small"></span>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label asp-for="IsAvailable" class="col-form-label col-form-label-sm col-2"></label>
+                <div class="col-4">
+                    <input type="checkbox" asp-for="IsAvailable" />
+
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+
+                <div class="col-6">
+                    <div class="d-flex align-items-center">
+                        <h4>Work logs</h4>
+                        <span style="flex:1 1 auto;"></span>
+                        <button type="submit" name="operation" value="add" class="btn btn-secondary btn-sm" formnovalidate>Add</button>
+                    </div>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Food Name</th>
+                                <th>Price</th>
+
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @for (var i = 0; i < Model.Foods.Count; i++)
+                            {
+                                <tr style="vertical-align:top">
+                                    <td>
+                                       <select asp-items="@(new SelectList(ViewBag.Foods, "FoodName", "FoodName"))" type="text" asp-for="@Model.Foods[i].FoodName" class="form-select form-select-sm">
+                                        </select>
+
+                                        <span asp-validation-for="@Model.Foods[i].FoodName" class="text-danger small"></span>
+                                    </td>
+                                    <td>
+                                        <input type="text" asp-for="@Model.Foods[i].Price" class="form-control form-control-sm" />
+                                        <span asp-validation-for="@Model.Foods[i].Price" class="text-danger small"></span>
+                                    </td>
+
+                                    <td style="width:70px; text-align:right">
+                                        <button name="operation" type="submit" class="btn btn-danger btn-sm" value="remove_@i" formnovalidate>Remove</button>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+
+                    </table>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+
+                <div class="col-6 text-end">
+                    <button type="submit" class="btn btn-primary" name="operation" value="insert">Save</button>
+
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="col-12">
+        <a asp-action="Index" class="btn-link">Back to list</a>
+    </div>
+</div>
+
+@section scripts {
+    <script src="~/libs/jquery/jquery.min.js"></script>
+    <script src="~/libs/validate/jquery.validate.min.js"></script>
+    <script src="~/libs/validate/jquery.validate.unobtrusive.min.js"></script>
+}
